@@ -70,5 +70,5 @@ app.get('/', (req, res) => {
 
 
 app.listen( port , ()=>{
-    console.log('Running Travel server on port', port);
+    console.log('Running Travell server on port', port);
 })
